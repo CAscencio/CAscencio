@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Ciurlizza Ascencio</h1>
 <h3 align="center">Tengo 19 años, soy un apasionado por la programación</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cascencio&label=Profile%20views&color=0e75b6&style=flat" alt="cascencio" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cascencio" alt="cascencio" /></a> </p>
 
 <h3 align="left">Contactate con migo:</h3>
