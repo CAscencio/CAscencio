@@ -2,8 +2,6 @@
 
 #### Tengo 20 años, soy un apasionado por la programación.
 
-</br>
-
 ##### BIO
 
 - 🏢 Soy de nacionalidad **Peruana 🇵🇪**
@@ -12,8 +10,6 @@
 - 🌱 Aprendiendo todo sobre el **Open Source**
 - 💬 Hazme ping sobre **java**, **Spring**, **TypeScript**, **Angular**
 - 📫 Noticias : [twitter.com/CiurlizzaAscen1](https://twitter.com/CiurlizzaAscen1)
-
-</br>
 
 ##### GitHub Streak
 
