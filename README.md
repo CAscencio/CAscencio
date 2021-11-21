@@ -20,11 +20,14 @@
 </br>
 
 <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cascencio" alt="cascencio" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=cascencio" alt="cascencio" />
 </p>
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cascencio&show_icons=true&locale=en&layout=compact" alt="cascencio" />
-    <img width="400px" height="180px" align="left"  src="https://github-readme-stats.vercel.app/api?username=cascencio&show_icons=true&locale=en" alt="cascencio" />
+    <p style="text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cascencio&show_icons=true&locale=en&layout=compact" alt="cascencio" style="width: 400px;"/>
+    </p>
+    <p style="text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api?username=cascencio&show_icons=true&locale=en" alt="cascencio" style="width: 400px;"/>
+    </p>
 </div>
